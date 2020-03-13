@@ -28,7 +28,11 @@ The filters were:
 - Articles only
 - World news only
 
-**Size:** 18677 rows and 5 columns.
+Bitcoin data was requested from alphavantage.co, they are Daily Bitcoin Opening and Closing prices.
+
+**Size:** 
+- News: 18677 rows and 5 columns.
+- Bitcoin: 926 rows and 11 columns.
 
 **Sources:**
 - [News Data](./Datasets/backup_data.csv)
